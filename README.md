@@ -25,5 +25,6 @@ This project analyzes credit card transaction data to uncover insights into cust
 
 📸 Dashboard Preview
 
-<img width="591" height="323" alt="Credit_Card_transaction" src="https://github.com/user-attachments/assets/3882088d-a571-48b9-93ff-2de84a16d51d" />
+<img width="591" height="323" alt="Credit_Card_Transaction" src="https://github.com/user-attachments/assets/e4fe13d2-5f7f-44b1-84e6-e0295600758a" />
+
 <img width="875" height="485" alt="Credit_Card_Customer_Report" src="https://github.com/user-attachments/assets/b491cf87-445f-47ca-997f-8bee52676a88" />
